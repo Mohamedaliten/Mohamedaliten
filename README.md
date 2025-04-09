@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Ali Tennich
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-tennich-1a40911b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali.tennich@isimg.tn)
 
 **IoT Solutions Developer** specializing in industrial-grade solutions. Passionate about bridging hardware and software for smart systems. 🌐
